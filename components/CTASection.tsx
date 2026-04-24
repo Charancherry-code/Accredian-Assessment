@@ -45,7 +45,7 @@ export default function CTASection() {
                 Want to Learn More About Our Training Solutions?
               </h2>
               <p className="text-primary-100 mb-6">
-                Get Expert Guidance for Your Team's Success!
+                Get Expert Guidance for Your Team&apos;s Success!
               </p>
               <Button variant="white">
                 Contact Us

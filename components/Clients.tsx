@@ -9,7 +9,7 @@ export default function Clients() {
           Our Proven Partnerships
         </h2>
         <p className="text-center text-gray-600 mb-12 max-w-2xl mx-auto">
-          Successful Collaborations With the Industry's Best
+          Successful Collaborations With the Industry&apos;s Best
         </p>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-8">
           {clients.map((client, index) => (
