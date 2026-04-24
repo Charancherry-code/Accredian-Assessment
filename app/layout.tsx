@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import StructuredData from "@/components/StructuredData";
@@ -27,10 +27,11 @@ export const metadata: Metadata = {
     title: "Accredian Enterprise - Next-Gen Expertise For Your Enterprise",
     description: "Transform your workforce with industry-leading data science, AI, and analytics training programs",
   },
-  viewport: {
-    width: "device-width",
-    initialScale: 1,
-  },
+};
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
 };
 
 export default function RootLayout({
