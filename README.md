@@ -241,10 +241,6 @@ This project was developed with assistance from AI tools (Cascade/Claude):
 
 This project is deployed on Vercel:
 
-1. Push code to GitHub
-2. Import project in Vercel
-3. Deploy with default settings
-
 The build output is optimized for production with Next.js automatic optimizations.
 
 ## 📄 License
