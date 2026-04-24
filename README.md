@@ -237,7 +237,9 @@ This project was developed with assistance from AI tools (Cascade/Claude):
 
 ## 🚀 Deployment
 
-This project is ready for deployment on Vercel:
+**Live Demo:** https://accredian-assessment.vercel.app/
+
+This project is deployed on Vercel:
 
 1. Push code to GitHub
 2. Import project in Vercel
